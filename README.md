@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Digital game library**
 
-- 🌱 I’m currently learning **NodeJS,ThreeJS,ReactJs**
+- 🌱 I’m currently learning **NodeJS, ThreeJS, ReactJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
