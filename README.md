@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Yash Yadav</h1>
-<h3 align="center">Mostly playing with VSCode these days.Hobbyist game developer by night.</h3>
+<h3 align="center">Mostly playing with VSCode these days.
+  Hobbyist game developer by night.</h3>
 
 - 🌱 I’m currently learning **NodeJS, NextJS, Artificial Intelligence**
 
