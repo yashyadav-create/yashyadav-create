@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Yash Yadav</h1>
 <h3 align="center">Mostly playing with VSCode these days.Hobbyist game developer by night.</h3>
 
-- 🔭 I’m currently working on **Digital game library**
-
-- 🌱 I’m currently learning **NodeJS, NextJS, ReactJs**
+- 🌱 I’m currently learning **NodeJS, NextJS, Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
